@@ -9,20 +9,31 @@
 
 **Hoàn hảo cho Claude Code và tất cả AI coding agents**
 
-[![Website](https://img.shields.io/badge/Website-vibecodecheap.com-blue?style=for-the-badge)](https://vibecodecheap.com)
+[![Website](https://img.shields.io/badge/Website-vibecodecheap.com-blue?style=for-the-badge)](https://vibecodecheap.com/vi)
 [![Discord](https://img.shields.io/badge/Discord-Tham%20Gia-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vibecodecheap)
 
 </div>
 
 ---
 
-## 🎯 Bảng Giá
+## 🎯 Gói Dịch Vụ
 
-| Model | Nhà cung cấp | Giá của chúng tôi | Giá gốc | Tiết kiệm |
-|-------|-------------|-------------------|---------|-----------|
-| Claude Opus 4.5 | Anthropic | $X/1M tokens | $75/1M | **XX%** |
-| Claude Sonnet 4.5 | Anthropic | $X/1M tokens | $15/1M | **XX%** |
-| Gemini 3 Pro | Google | $X/1M tokens | $X/1M | **XX%** |
+### 💎 **Gói Pro**
+Dành cho lập trình viên cá nhân
+- Nhiều hơn gói Claude Pro ($20)
+- Gấp 10 lần Cursor Pro
+- Cập nhật model flagship (Claude Sonnet 4.5, Gemini 3 Pro...)
+- Miễn phí không giới hạn: GLM 4.7, GPT 5 Mini
+
+### 🚀 **Gói Max**
+Dành cho lập trình viên chuyên nghiệp
+- Nhiều hơn Claude Max 20x ($200)
+- Gấp 10 lần Cursor Max
+- Tất cả quyền lợi Pro + rate limit cao hơn
+- Truy cập sớm các tính năng mới
+- Hỗ trợ ưu tiên
+
+[![Xem Chi Tiết Bảng Giá](https://img.shields.io/badge/Xem%20Chi%20Tiết-vibecodecheap.com-green?style=for-the-badge)](https://vibecodecheap.com/vi/#pricing)
 
 > 💡 **Tương thích 100% với OpenAI & Anthropic API** - Chỉ cần đổi base URL!
 
@@ -65,9 +76,9 @@ export OPENAI_API_KEY=your_api_key
 
 ## 📚 Tài liệu
 
-- 📖 [Hướng dẫn sử dụng](https://docs.vibecodecheap.com)
-- 💰 [Bảng giá](https://vibecodecheap.com/pricing)
-- 🔑 [Lấy API Key](https://vibecodecheap.com/dashboard)
+- 📖 [Hướng dẫn sử dụng](https://docs.vibecodecheap.com/vi)
+- 💰 [Bảng giá](https://vibecodecheap.com/vi/#pricing)
+- 🔑 [Lấy API Key](https://vibecodecheap.com/vi/dashboard/api-keys)
 - 💬 [Cộng đồng Discord](https://discord.gg/vibecodecheap)
 
 ---
@@ -76,6 +87,6 @@ export OPENAI_API_KEY=your_api_key
 
 **Dành cho developer yêu AI nhưng ghét hóa đơn API đắt đỏ ❤️**
 
-[Bắt đầu ngay →](https://vibecodecheap.com)
+[Bắt đầu ngay →](https://vibecodecheap.com/vi)
 
 </div>

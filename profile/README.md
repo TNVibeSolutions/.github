@@ -11,7 +11,6 @@
 
 [![Website](https://img.shields.io/badge/Website-vibecodecheap.com-blue?style=for-the-badge)](https://vibecodecheap.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vibecodecheap)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vibecodecheap)
 
 </div>
 
@@ -19,11 +18,22 @@
 
 ## 🎯 What We Offer
 
-| Model | Provider | Our Price | Official Price | Savings |
-|-------|----------|-----------|----------------|---------|
-| Claude Opus 4.5 | Anthropic | $X/1M tokens | $75/1M | **XX% off** |
-| Claude Sonnet 4.5 | Anthropic | $X/1M tokens | $15/1M | **XX% off** |
-| Gemini 3 Pro | Google | $X/1M tokens | $X/1M | **XX% off** |
+### 💎 **Pro Plan**
+For individual developers
+- More than Claude Pro ($20)
+- 10x more than Cursor Pro
+- Flagship model updates (Claude Sonnet 4.5, Gemini 3 Pro...)
+- Unlimited free models: GLM 4.7, GPT 5 Mini
+
+### 🚀 **Max Plan**
+For professional developers
+- More than Claude Max 20x ($200)
+- 10x more than Cursor Max
+- All Pro benefits + higher rate limits
+- Early access to new features
+- Priority support
+
+[![View Full Pricing](https://img.shields.io/badge/View%20Full%20Pricing-vibecodecheap.com-green?style=for-the-badge)](https://vibecodecheap.com/#pricing)
 
 > 💡 **100% OpenAI & Anthropic API Compatible** - Just change your base URL!
 
@@ -82,8 +92,8 @@ response = client.chat.completions.create(
 ## 📚 Resources
 
 - 📖 [Documentation](https://docs.vibecodecheap.com)
-- 💰 [Pricing](https://vibecodecheap.com/pricing)
-- 🔑 [Get API Key](https://vibecodecheap.com/dashboard)
+- 💰 [Pricing](https://vibecodecheap.com/#pricing)
+- 🔑 [Get API Key](https://vibecodecheap.com/dashboard/api-keys)
 - 💬 [Discord Community](https://discord.gg/vibecodecheap)
 
 ---
