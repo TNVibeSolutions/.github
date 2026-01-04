@@ -22,7 +22,7 @@
 For individual developers
 - More than Claude Pro ($20)
 - 10x more than Cursor Pro
-- Flagship model updates (Claude Sonnet 4.5, Gemini 3 Pro...)
+- Flagship model updates (Claude Opus 4.5, Gemini 3 Pro...)
 - Unlimited free models: GLM 4.7, GPT 5 Mini
 
 ### 🚀 **Max Plan**
@@ -43,11 +43,11 @@ For professional developers
 
 ```bash
 # Using with Claude Code
-export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com
+export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com/v1/ai
 export ANTHROPIC_API_KEY=your_api_key
 
 # Using with OpenAI SDK
-export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1
+export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1/ai
 export OPENAI_API_KEY=your_api_key
 ```
 
@@ -56,12 +56,12 @@ export OPENAI_API_KEY=your_api_key
 from openai import OpenAI
 
 client = OpenAI(
-    base_url="https://api.vibecodecheap.com/v1",
+    base_url="https://api.vibecodecheap.com/v1/ai",
     api_key="your_api_key"
 )
 
 response = client.chat.completions.create(
-    model="claude-sonnet-4-5",
+    model="claude-opus-4-5",
     messages=[{"role": "user", "content": "Hello!"}]
 )
 ```

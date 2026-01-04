@@ -22,7 +22,7 @@
 Dành cho lập trình viên cá nhân
 - Nhiều hơn gói Claude Pro ($20)
 - Gấp 10 lần Cursor Pro
-- Cập nhật model flagship (Claude Sonnet 4.5, Gemini 3 Pro...)
+- Cập nhật model flagship (Claude Opus 4.5, Gemini 3 Pro...)
 - Miễn phí không giới hạn: GLM 4.7, GPT 5 Mini
 
 ### 🚀 **Gói Max**
@@ -43,11 +43,11 @@ Dành cho lập trình viên chuyên nghiệp
 
 ```bash
 # Sử dụng với Claude Code
-export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com
+export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com/v1/ai
 export ANTHROPIC_API_KEY=your_api_key
 
 # Sử dụng với OpenAI SDK
-export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1
+export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1/ai
 export OPENAI_API_KEY=your_api_key
 ```
 
