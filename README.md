@@ -1,3 +1,3 @@
 # .github
 
-🧪 VibeSolutions - Exploring new technologies and building innovative solutions.
+🧪 TNVibeSolutions - Exploring new technologies and building innovative solutions.

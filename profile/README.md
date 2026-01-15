@@ -3,13 +3,15 @@
 [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README.md)
 [![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng%20Việt-red?style=flat-square)](README-vi.md)
 
-# 🧪 VibeSolutions
+<img src="../assets/logo.png" alt="TNVibeSolutions" width="120"/>
+
+# TNVibeSolutions
 
 ### Exploring New Technologies. Building Innovative Solutions.
 
 *A team passionate about experimenting with cutting-edge tech*
 
-[![GitHub](https://img.shields.io/badge/GitHub-VibeSolutions-181717?style=for-the-badge&logo=github)](https://github.com/VibeSolutions)
+[![GitHub](https://img.shields.io/badge/GitHub-TNVibeSolutions-181717?style=for-the-badge&logo=github)](https://github.com/TNVibeSolutions)
 
 </div>
 
@@ -55,6 +57,6 @@ Interested in collaboration or just want to say hi?
 
 <div align="center">
 
-**Built with curiosity and ☕ by VibeSolutions**
+**Built with curiosity and ☕ by TNVibeSolutions**
 
 </div>
