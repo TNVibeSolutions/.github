@@ -3,90 +3,58 @@
 [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README.md)
 [![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng%20Việt-red?style=flat-square)](README-vi.md)
 
-# 🚀 VibeCodeCheap
+# 🧪 VibeSolutions
 
-### API LLM Cao Cấp - Giảm Đến 70%
+### Khám Phá Công Nghệ Mới. Xây Dựng Giải Pháp Sáng Tạo.
 
-**Hoàn hảo cho Claude Code và tất cả AI coding agents**
+*Một team đam mê thử nghiệm các công nghệ tiên tiến*
 
-[![Website](https://img.shields.io/badge/Website-vibecodecheap.com-blue?style=for-the-badge)](https://vibecodecheap.com/vi)
-[![Discord](https://img.shields.io/badge/Discord-Tham%20Gia-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vibecodecheap)
+[![GitHub](https://img.shields.io/badge/GitHub-VibeSolutions-181717?style=for-the-badge&logo=github)](https://github.com/VibeSolutions)
 
 </div>
 
 ---
 
-## 🎯 Gói Dịch Vụ
+## 🎯 Chúng Tôi Làm Gì
 
-### 💎 **Gói Pro**
-Dành cho lập trình viên cá nhân
-- Nhiều hơn gói Claude Pro ($20)
-- Gấp 10 lần Cursor Pro
-- Cập nhật model flagship (Claude Opus 4.5, Gemini 3 Pro...)
-- Miễn phí không giới hạn: GLM 4.7, GPT 5 Mini
+Chúng tôi là một team nhỏ yêu thích **thử nghiệm** các công nghệ mới và biến ý tưởng thành hiện thực. Các lĩnh vực tập trung:
 
-### 🚀 **Gói Max**
-Dành cho lập trình viên chuyên nghiệp
-- Nhiều hơn Claude Max 20x ($200)
-- Gấp 10 lần Cursor Max
-- Tất cả quyền lợi Pro + rate limit cao hơn
-- Truy cập sớm các tính năng mới
-- Hỗ trợ ưu tiên
-
-[![Xem Chi Tiết Bảng Giá](https://img.shields.io/badge/Xem%20Chi%20Tiết-vibecodecheap.com-green?style=for-the-badge)](https://vibecodecheap.com/vi/#pricing)
-
-> 💡 **Tương thích 100% với OpenAI & Anthropic API** - Chỉ cần đổi base URL!
+- 🤖 **AI & LLM Applications** - Khám phá tương lai của công cụ AI
+- 🚀 **Developer Tools** - Xây dựng tiện ích giúp cuộc sống developer dễ dàng hơn
+- 🌐 **Web Technologies** - Framework hiện đại, serverless, edge computing
+- 🔧 **Open Source** - Đóng góp và tạo các dự án mã nguồn mở
 
 ---
 
-## ⚡ Bắt đầu nhanh
+## 💡 Triết Lý Của Chúng Tôi
 
-```bash
-# Sử dụng với Claude Code
-export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com/v1/ai
-export ANTHROPIC_API_KEY=your_api_key
+> *"Di chuyển nhanh, thử nghiệm thường xuyên, luôn học hỏi"*
 
-# Sử dụng với OpenAI SDK
-export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1/ai
-export OPENAI_API_KEY=your_api_key
-```
+Chúng tôi tin vào:
+- ✨ **Thử nghiệm** - Thử cái mới, fail nhanh, cải tiến liên tục
+- 🛠️ **Thực dụng** - Xây cái hoạt động, không chạy theo trend
+- 🌱 **Học hỏi liên tục** - Luôn tò mò, không ngừng phát triển
+- 🤝 **Cộng đồng** - Chia sẻ kiến thức, giúp đỡ người khác
 
 ---
 
-## 🛠️ Hoàn hảo cho
+## 📦 Các Dự Án
 
-- **Claude Code** - AI coding assistant
-- **Cursor** - IDE tích hợp AI
-- **Windsurf** - AI coding agent
-- **Continue.dev** - AI assistant mã nguồn mở
-- **Aider** - AI pair programming
-- **Ứng dụng AI tùy chỉnh** - Xây dựng app của riêng bạn
+Chúng tôi đang làm việc trên nhiều dự án ở các lĩnh vực khác nhau. Hãy theo dõi để cập nhật!
 
 ---
 
-## 🌟 Tại sao chọn VibeCodeCheap?
+## 🌟 Liên Hệ
 
-✅ **Giá rẻ** - Model cao cấp, giá phải chăng  
-✅ **Tương thích** - Thay thế trực tiếp OpenAI/Anthropic  
-✅ **Ổn định** - SLA uptime 99.9%  
-✅ **Nhanh** - Độ trễ thấp, streaming mượt mà  
-✅ **Bảo mật** - Không log, không lưu dữ liệu  
+Muốn hợp tác hoặc chỉ muốn say hi?
 
----
-
-## 📚 Tài liệu
-
-- 📖 [Hướng dẫn sử dụng](https://docs.vibecodecheap.com/vi)
-- 💰 [Bảng giá](https://vibecodecheap.com/vi/#pricing)
-- 🔑 [Lấy API Key](https://vibecodecheap.com/vi/dashboard/api-keys)
-- 💬 [Cộng đồng Discord](https://discord.gg/vibecodecheap)
+- 💬 Mở issue trên bất kỳ repo nào của chúng tôi
+- 📧 Liên hệ team
 
 ---
 
 <div align="center">
 
-**Dành cho developer yêu AI nhưng ghét hóa đơn API đắt đỏ ❤️**
-
-[Bắt đầu ngay →](https://vibecodecheap.com/vi)
+**Được xây dựng với sự tò mò và ☕ bởi VibeSolutions**
 
 </div>

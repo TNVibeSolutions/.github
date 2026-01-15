@@ -3,105 +3,58 @@
 [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README.md)
 [![Tiếng Việt](https://img.shields.io/badge/lang-Tiếng%20Việt-red?style=flat-square)](README-vi.md)
 
-# 🚀 VibeCodeCheap
+# 🧪 VibeSolutions
 
-### Premium LLM Models at Up to 70% Off
+### Exploring New Technologies. Building Innovative Solutions.
 
-**Perfect for Claude Code and all AI coding agents**
+*A team passionate about experimenting with cutting-edge tech*
 
-[![Website](https://img.shields.io/badge/Website-vibecodecheap.com-blue?style=for-the-badge)](https://vibecodecheap.com)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vibecodecheap)
+[![GitHub](https://img.shields.io/badge/GitHub-VibeSolutions-181717?style=for-the-badge&logo=github)](https://github.com/VibeSolutions)
 
 </div>
 
 ---
 
-## 🎯 What We Offer
+## 🎯 What We Do
 
-### 💎 **Pro Plan**
-For individual developers
-- More than Claude Pro ($20)
-- 10x more than Cursor Pro
-- Flagship model updates (Claude Opus 4.5, Gemini 3 Pro...)
-- Unlimited free models: GLM 4.7, GPT 5 Mini
+We're a small team that loves **experimenting** with new technologies and turning ideas into reality. Our focus areas include:
 
-### 🚀 **Max Plan**
-For professional developers
-- More than Claude Max 20x ($200)
-- 10x more than Cursor Max
-- All Pro benefits + higher rate limits
-- Early access to new features
-- Priority support
-
-[![View Full Pricing](https://img.shields.io/badge/View%20Full%20Pricing-vibecodecheap.com-green?style=for-the-badge)](https://vibecodecheap.com/#pricing)
-
-> 💡 **100% OpenAI & Anthropic API Compatible** - Just change your base URL!
+- 🤖 **AI & LLM Applications** - Exploring the future of AI-powered tools
+- 🚀 **Developer Tools** - Building utilities that make developers' lives easier
+- 🌐 **Web Technologies** - Modern frameworks, serverless, and edge computing
+- 🔧 **Open Source** - Contributing to and creating open-source projects
 
 ---
 
-## ⚡ Quick Start
+## 💡 Our Philosophy
 
-```bash
-# Using with Claude Code
-export ANTHROPIC_BASE_URL=https://api.vibecodecheap.com/v1/ai
-export ANTHROPIC_API_KEY=your_api_key
+> *"Move fast, experiment often, learn always"*
 
-# Using with OpenAI SDK
-export OPENAI_BASE_URL=https://api.vibecodecheap.com/v1/ai
-export OPENAI_API_KEY=your_api_key
-```
-
-```python
-# Python Example
-from openai import OpenAI
-
-client = OpenAI(
-    base_url="https://api.vibecodecheap.com/v1/ai",
-    api_key="your_api_key"
-)
-
-response = client.chat.completions.create(
-    model="claude-opus-4-5",
-    messages=[{"role": "user", "content": "Hello!"}]
-)
-```
+We believe in:
+- ✨ **Experimentation** - Try new things, fail fast, iterate
+- 🛠️ **Pragmatism** - Build what works, not what's trendy
+- 🌱 **Continuous Learning** - Stay curious, keep growing
+- 🤝 **Community** - Share knowledge, help others
 
 ---
 
-## 🛠️ Perfect For
+## 📦 Our Projects
 
-- **Claude Code** - AI coding assistant
-- **Cursor** - AI-powered IDE
-- **Windsurf** - AI coding agent
-- **Continue.dev** - Open-source AI assistant
-- **Aider** - AI pair programming
-- **Custom AI Apps** - Build your own
+We're working on various projects across different domains. Stay tuned for updates!
 
 ---
 
-## 🌟 Why VibeCodeCheap?
+## 🌟 Get In Touch
 
-✅ **Affordable** - Premium models at budget prices  
-✅ **Compatible** - Drop-in replacement for OpenAI/Anthropic  
-✅ **Reliable** - 99.9% uptime SLA  
-✅ **Fast** - Low latency streaming responses  
-✅ **Secure** - No logging, no data retention  
+Interested in collaboration or just want to say hi?
 
----
-
-## 📚 Resources
-
-- 📖 [Documentation](https://docs.vibecodecheap.com)
-- 💰 [Pricing](https://vibecodecheap.com/#pricing)
-- 🔑 [Get API Key](https://vibecodecheap.com/dashboard/api-keys)
-- 💬 [Discord Community](https://discord.gg/vibecodecheap)
+- 💬 Open an issue on any of our repos
+- 📧 Reach out to the team
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for developers who love AI but hate high API bills**
-
-[Get Started →](https://vibecodecheap.com)
+**Built with curiosity and ☕ by VibeSolutions**
 
 </div>
